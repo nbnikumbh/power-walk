@@ -1,1 +1,16 @@
-
+{
+    "powerwalks": [
+        {
+            "id": 10,
+            "user": "Niket",
+            "date": "21-Jun-2022",
+            "distance": "2.5"
+        },
+        {
+            "id": 20,
+            "user": "Niket",
+            "date": "22-Jun-2022",
+            "distance": "8"
+        }
+    ]
+}
